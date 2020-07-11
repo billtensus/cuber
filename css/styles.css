@@ -1,0 +1,28 @@
+body {
+  background-color:#EAF6F6;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 4px;
+  width:5%;
+  }
+h1,h3{
+  color: #66BFBF;
+}
+.z{
+  background-color: #66bfbf;
+  color: #393e46;
+  height:50px;
+  width:200px;
+  position: fixed;
+  right:0;
+  top:0;
+  font-size: 45px;
+
+}
+.z:hover{
+  background-color: gold;
+  color:red;
+}
